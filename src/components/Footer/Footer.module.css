@@ -1,0 +1,13 @@
+.footer {
+    background-color: #2d2d2e;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer small {
+    font-family: "Outfit", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
